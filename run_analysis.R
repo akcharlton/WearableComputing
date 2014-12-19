@@ -1,4 +1,3 @@
-setwd("C:/Users/Class/datasciencecoursera/getdata_projectfiles_UCI_HAR_Dataset/UCI_HAR_Dataset")
 library(dplyr)
 library(tidyr)
 
